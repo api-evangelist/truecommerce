@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TrueCommerce is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://truecommerce.com/
+TrueCommerce provides end‑to‑end supply‑chain solutions, including EDI, e‑invoicing, VMI, and B2B eCommerce platforms. Their services connect trading partners, automate order management, and ensure compliance with global invoicing standards, helping manufacturers, retailers, and distributors streamline operations.
+
+**Areas:** Company · EDI · Supply-Chain · Integration · B2B
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://truecommerce.com/)
+- [Documentation](https://help.truecommerce.com/)
+- [Support](https://help.truecommerce.com/en/)
+- [Blog](https://www.truecommerce.com/blog/)
+- [Privacy policy](https://www.truecommerce.com/legal/privacy-policy/)
+- [GitHub](https://github.com/TrueCommerce)
+- [Status](https://status.truecommerce.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/truecommerce/](https://apis.io/providers/truecommerce/).
